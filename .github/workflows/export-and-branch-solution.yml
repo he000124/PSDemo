@@ -1,0 +1,5 @@
+env:
+#edit your values here
+  ENVIRONMENT_URL: 'https://poweractionsdev.crm.dynamics.com'
+  CLIENT_ID: '<APPID>'
+  TENANT_ID: '<TENANT ID>'
